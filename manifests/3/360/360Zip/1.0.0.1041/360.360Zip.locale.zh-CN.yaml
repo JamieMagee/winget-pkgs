@@ -6,7 +6,7 @@ PackageVersion: 1.0.0.1041
 PackageLocale: zh-CN
 Publisher: 360 Security Center
 PublisherUrl: https://www.360totalsecurity.com/zh-cn/
-PublisherSupportUrl: http://www.360totalsecurity.com/zh-cn/help/360zip/
+PublisherSupportUrl: https://www.360totalsecurity.com/zh-cn/help/360zip/
 PrivacyUrl: https://www.360totalsecurity.com/zh-cn/privacy/360zip/
 Author: 北京奇虎科技有限公司
 PackageName: 360 Zip
